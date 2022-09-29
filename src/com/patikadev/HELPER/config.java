@@ -2,7 +2,7 @@ package com.patikadev.HELPER;
 
 import java.net.URL;
 
-public class config {   //gegggggggggggggggg
+public class config {
 
     public static final String PROJECT_FÝNAL="Patika.dev";
 
